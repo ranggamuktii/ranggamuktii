@@ -2,7 +2,7 @@
 
 <h1 align="center">Hallo 🙌🏻, I'm Rangga Mukti</h1>
 <h3 align="center">I am amateur front-end web developer, video editor, and 2D animator with a strong track record. My experience includes collaboration with PT Astra Honda Motor and internship opportunities at PT Hashmicro Solusi Indonesia. I am part of the core team of Google Developers Student Clubs Chapter Unsika, and I am also part of the Bank Indonesia scholarship recipient community.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/13595937/file/original-de8e3d2472152bce6e56b05ea9b92d5a.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/13595937/file/original-de8e3d2472152bce6e56b05ea9b92d5a.gif">
 
 - 🔭 I’m currently working on [xxx](xxx)
 
