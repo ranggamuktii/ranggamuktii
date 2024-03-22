@@ -20,8 +20,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhpZ2F2djJyYThqNHI5YXppMmtwNjkyY241bHFwNHlrYzVzMTh0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIGNpPAhSPGnOlyoeZ/giphy.gif"  />
 
 ###
