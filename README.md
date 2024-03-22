@@ -56,13 +56,13 @@
 ###
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/ranggamukti/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-username">
+  <a href="https://www.instagram.com/rangga.md/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:r4n994mukti@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
