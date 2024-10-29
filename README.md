@@ -12,7 +12,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,cpp,cs,java,php,py,git,ps,ai,pr,ae,figma,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,npm,express,mysql,mongodb,firebase,git,bootstrap,tailwind,cpp,cs,java,php,py)](https://skillicons.dev)
 
 ###
 
